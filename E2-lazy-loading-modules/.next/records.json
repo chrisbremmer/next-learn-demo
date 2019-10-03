@@ -1,0 +1,44 @@
+{
+  "modules": {
+    "byIdentifier": {},
+    "usedIds": {}
+  },
+  "chunks": {
+    "byName": {
+      "commons": 0,
+      "static/runtime/webpack.js": 1,
+      "static/N7iDZ5uKUXBmTaTiV3SvQ/pages/_app.js": 2,
+      "static/N7iDZ5uKUXBmTaTiV3SvQ/pages/_error.js": 3,
+      "static/N7iDZ5uKUXBmTaTiV3SvQ/pages/about.js": 4,
+      "static/N7iDZ5uKUXBmTaTiV3SvQ/pages/index.js": 5,
+      "static/N7iDZ5uKUXBmTaTiV3SvQ/pages/p/[id].js": 6,
+      "static/runtime/main.js": 7,
+      "static/FqS5LLGwkKUn1ctBMGzMz/pages/_app.js": 8,
+      "static/FqS5LLGwkKUn1ctBMGzMz/pages/_error.js": 9,
+      "static/FqS5LLGwkKUn1ctBMGzMz/pages/about.js": 10,
+      "static/FqS5LLGwkKUn1ctBMGzMz/pages/index.js": 11,
+      "static/FqS5LLGwkKUn1ctBMGzMz/pages/p/[id].js": 12,
+      "static/fSmowRkxQeRU5-626WPWn/pages/_app.js": 2,
+      "static/fSmowRkxQeRU5-626WPWn/pages/_error.js": 3,
+      "static/fSmowRkxQeRU5-626WPWn/pages/about.js": 4,
+      "static/fSmowRkxQeRU5-626WPWn/pages/index.js": 5,
+      "static/fSmowRkxQeRU5-626WPWn/pages/p/[id].js": 6
+    },
+    "bySource": {
+      "0 node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!lib/load-db.js firebase/database": 13,
+      "0 node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!lib/load-db.js firebase/app": 14
+    },
+    "usedIds": [
+      0,
+      1,
+      13,
+      14,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  }
+}
